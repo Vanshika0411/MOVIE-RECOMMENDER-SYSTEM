@@ -1,8 +1,3 @@
-# MOVIE-RECOMMENDER-SYSTEM
-Yeh rahi tumhare **Movie Recommender System** project ki ek achhi description:  
-
----
-
 # **Movie Recommender System**  
 
 ### **Project Overview**  
@@ -30,6 +25,3 @@ The **Movie Recommender System** is a machine learning-based web application tha
 ### **Conclusion**  
 This project provides a simple yet effective approach to movie recommendation using **machine learning**. It can be further improved by incorporating **collaborative filtering**, **deep learning models**, or **real-time user preferences** for better recommendations.  
 
----
-
-Agar tumhe kuch changes chahiye ya aur details add karni ho, toh batao! 😊
